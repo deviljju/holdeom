@@ -1,0 +1,163 @@
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\주현\Desktop\상하이\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\주현\Desktop\상하이1811\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\주현\Desktop\상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\01\Desktop\상하이~1\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe.config
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Shanghai-hold'em.pdb
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_server.exe
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_server.pdb
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\bin\Debug\Hold'em_server.exe.config
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Main.resources
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai_hold_em.Properties.Resources.resources
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.csproj.CopyComplete
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.exe
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Shanghai-hold'em\obj\Debug\Shanghai-hold'em.pdb

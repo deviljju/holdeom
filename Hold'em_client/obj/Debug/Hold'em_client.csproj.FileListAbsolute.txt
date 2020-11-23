@@ -1,0 +1,222 @@
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\a0515z\Desktop\Texas-hold'em\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\test\Texas-hold'em\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\홀덤(명령어)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold'em_client.csproj.CoreCompileInputs.cache
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\prof\Desktop\홀덤(명령어00시28분)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\홀덤(120300시28분)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold'em_client.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\홀덤1203\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤(1203,1312)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold'em_client.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤(1203,1754) (2)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤2008\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold'em_client.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\홀덤(2008)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\백업\홀덤(12시03분)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\주현\Desktop\상하이\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\주현\Desktop\상하이\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\주현\Desktop\상하이\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\주현\Desktop\상하이\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\주현\Desktop\상하이\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\주현\Desktop\상하이\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold'em_client.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Documents\카카오톡 받은 파일\상하이 (0516)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이1811\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\주현\Desktop\상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.help.resources
+C:\Users\01\Desktop\상하이~1\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\상하이~1\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\상하이~1\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold_em_client.help.resources
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold'em_client.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\상하이~1\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.help.resources
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\C#_1205_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold_em_client.help.resources
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold'em_client.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\01\Desktop\C#_1205_상하이홀덤(최종) (2) (2)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.help.resources
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\C#_1209_상하이홀덤(최종)\Hold'em_client\obj\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\bin\Debug\Hold'em_client.exe.config
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\bin\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\bin\Debug\Hold'em_client.pdb
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.csprojAssemblyReference.cache
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.Client.resources
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.help.resources
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.PlayHold_em_client.resources
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold_em_client.Properties.Resources.resources
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.csproj.GenerateResource.cache
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.exe
+C:\Users\조주현\Desktop\포트폴리오\C#_1210_상하이홀덤\Hold'em_client\obj\Debug\Hold'em_client.pdb
